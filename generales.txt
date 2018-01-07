@@ -1,0 +1,33 @@
+
+
+
+http://brackets.io/
+
+
+
+	cambiar el theme:
+	_________________
+
+	_primero vamos a la sección "Gestor de Etensiones"
+
+	_y en la sección de búsqueda escribimos "Themes for Brackers", "Themes", seleccionamos uno Dark, y lo instalamos
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Tutoriales:
+___________
+
+	Brackets, hecho por front-ends para front-ends
+		https://www.youtube.com/watch?v=kZSCTOBCY3I
+
+
+	code4d (lista de reproduccion de 14 videos)
+
+		https://www.youtube.com/user/code4d/playlists
+
+		Aprende a usar la extensión Extract en Brackets 1.0
+			https://www.youtube.com/watch?v=cCy3E4f8tSg
